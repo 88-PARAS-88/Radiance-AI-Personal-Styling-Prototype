@@ -2,7 +2,7 @@
 
 > *“Discover the style that feels like you.”*
 
-A demo-ready, responsive AI personal styling companion featuring dual **📱 Mobile (9:16)** and **💻 Desktop (16:9)** modes, real camera support, **Radiance Premium (₹499 One-Time Payment)** unlock system, personalized color analysis, multiple outfit combinations, and shopping exclusively from **Myntra** and **Meesho**.
+A demo-ready, responsive AI personal styling companion featuring dual **📱 Mobile (9:16)** and **💻 Desktop (16:9)** modes, real camera support, **Radiance Premium (₹449 One-Time Payment)** unlock system, personalized color analysis, multiple outfit combinations, and shopping exclusively from **Myntra** and **Meesho**.
 
 ---
 
@@ -33,9 +33,9 @@ A demo-ready, responsive AI personal styling companion featuring dual **📱 Mob
 - **Gallery Upload**: Instant file picker fallback.
 - **Demo Presets**: 4 high-fashion diverse models (*Aria, Chloe, Maya, Elena*) with deterministic color profiles.
 
-### 4. Basic AI Analysis & Radiance Premium (₹499 One-Time Payment)
+### 4. Basic AI Analysis & Radiance Premium (₹449 One-Time Payment)
 - **Basic Preview**: Real-time chroma scanning animation diagnosed skin tone, undertone, and style profile.
-- **₹499 One-Time Payment Unlock**:
+- **₹449 One-Time Payment Unlock**:
   - **Zero Subscriptions**: No recurring charges, no monthly/annual fees.
   - **Checklist of Unlocks**:
     - AI Personal Color Analysis & Custom Swatches
@@ -50,7 +50,7 @@ A demo-ready, responsive AI personal styling companion featuring dual **📱 Mob
     - Realistic animated processing state (256-bit encrypted simulation).
     - Success verification screen with **“Welcome to Radiance Premium”**.
   - **Premium Badge**:
-    - Displays `RADIANCE PREMIUM ✓` and `₹499 • One-time access` in header and profile once unlocked.
+    - Displays `RADIANCE PREMIUM ✓` and `₹449 • One-time access` in header and profile once unlocked.
     - Persisted during the session so payment is never prompted again.
 
 ### 5. Personal Colors & Palettes (Screen 3)

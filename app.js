@@ -1570,7 +1570,7 @@ const RadianceApp = {
   savedLooks: [],
   isCustomPhoto: false,
 
-  // Radiance Premium State (₹499 One-Time Payment)
+  // Radiance Premium State (₹449 One-Time Payment)
   premiumUnlocked: false,
   pendingPremiumTarget: null,
   selectedPayMethod: "upi",
